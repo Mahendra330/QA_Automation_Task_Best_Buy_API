@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="3145" started-at="2020-06-14T16:12:24 CEST" finished-at="2020-06-14T16:12:27 CEST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="3145" started-at="2020-06-14T16:12:24 CEST" finished-at="2020-06-14T16:12:27 CEST">
+      <class name="com.MKB.DurStexpress.TestCase.ProductSelectionTest">
+        <test-method status="PASS" signature="productDetails()[pri:0, instance:com.MKB.DurStexpress.TestCase.ProductSelectionTest@1786dec2]" name="productDetails" duration-ms="3100" started-at="2020-06-14T16:12:24 CEST" finished-at="2020-06-14T16:12:27 CEST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- productDetails -->
+      </class> <!-- com.MKB.DurStexpress.TestCase.ProductSelectionTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
