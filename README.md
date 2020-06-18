@@ -3,7 +3,7 @@
 Pre Condition:
 ===============
 
-Step1: Please setup Best Buy API in your system, as I am not able to upload setup to Github due access restriction by Best Buy API Team.
+Step1: Setup Best Buy API in your system.
 
 Step2: Start Best Buy API (npm start)
 
